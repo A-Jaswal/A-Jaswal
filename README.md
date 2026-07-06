@@ -11,6 +11,7 @@ I’m building my portfolio to show the projects I created during my DA course.
 
 ## Projects I have completed:
 - [Excel]
+- [Total Sales by gender](https://github.com/A-Jaswal/A-Jaswal/blob/main/Total%20Sales%20by%20gender.png)
 - [Tableau]
 - [Power BI]
 - [SQL]
