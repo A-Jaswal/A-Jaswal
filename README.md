@@ -23,6 +23,7 @@ I’m building my portfolio to show the projects I created during my DA course.
 - [Tableau]
   <br>
   [Global Health Insights](https://public.tableau.com/views/GlobalHealthInsights_17806610205890/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  <br>
   [Spotify_DA](https://public.tableau.com/views/SpotifyFeatures_17803963772710/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Power BI] <br>
   [Order_details](https://github.com/A-Jaswal/A-Jaswal/blob/main/Order_analysis.png)
