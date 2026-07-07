@@ -38,4 +38,6 @@ I’m building my portfolio to show the projects I created during my DA course.
   [Student_score_analysis](https://github.com/A-Jaswal/A-Jaswal/blob/main/Day3Task1workbook.ipynb) <br>
   <img width="600" height="210" alt="image" src="https://github.com/user-attachments/assets/f5cd321b-b61b-419b-a6e6-d8f021f87562" />
   <br>
+  <img width="600" height="210" alt="Screenshot 2026-07-07 184348" src="https://github.com/user-attachments/assets/f158331d-ea07-4f51-b26f-1e76156e9476" />
+
    [World_Data](https://github.com/A-Jaswal/A-Jaswal/blob/main/Day4Task1workbook.ipynb)
