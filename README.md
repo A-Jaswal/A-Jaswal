@@ -11,7 +11,8 @@ I’m building my portfolio to show the projects I created during my DA course.
 - Tableau / Power BI dashboards
 [Global Health Insights](https://public.tableau.com/views/GlobalHealthInsights_17806610205890/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## Projects I have completed:<img width="50" height="50" alt="image (1)" src="https://github.com/user-attachments/assets/1c6cffa1-9531-4ac5-b0bc-2895c824fd38" />
+## Projects I have completed:<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b5b1f6ca-0823-419e-9c50-9fcf76e21727" />
+
 
 - [Excel]
   <br>
