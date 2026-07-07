@@ -3,7 +3,7 @@
 I’m building my portfolio to show the projects I created during my DA course.
 
 
-## What I have learnt:<img width="40" height="40" alt="AdobeExpressPhotos_85669671b9ea44d988aa2c23eadcb767_CopyEdited" src="https://github.com/user-attachments/assets/5d89d4b8-22fc-4363-a66d-cc3fa48de4bc" />
+## What I have learnt:<img width="60" height="60" alt="AdobeExpressPhotos_85669671b9ea44d988aa2c23eadcb767_CopyEdited" src="https://github.com/user-attachments/assets/5d89d4b8-22fc-4363-a66d-cc3fa48de4bc" />
 
 - Excel and data basics
 - Python / Google Colab
