@@ -31,7 +31,8 @@ I’m building my portfolio to show the projects I created during my DA course.
   <br>
   <br>
 - [Power BI] <br>
-  [Order_details](https://github.com/A-Jaswal/A-Jaswal/blob/main/Order_analysis.png)
+  [Order_details](https://app.powerbi.com/view?r=eyJrIjoiMmRmZTJiNjQtNzcyMi00OWRhLWE1NzAtNjIzOTFiM2Y2NGExIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+  <br>
 - [SQL]
 - [Python]
   <br>
