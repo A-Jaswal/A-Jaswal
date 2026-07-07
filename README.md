@@ -22,7 +22,9 @@ I’m building my portfolio to show the projects I created during my DA course.
   [Total Sales by category](https://github.com/A-Jaswal/A-Jaswal/blob/main/Total%20sales%20by%20category.png)
 - [Tableau]
   <br>
-  [Global Health Insights](https://public.tableau.com/views/GlobalHealthInsights_17806610205890/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  [Global Health Insights](https://public.tableau.com/views/GlobalHealthInsights_17806610205890/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) <br>
+  <img width="3574" height="1610" alt="Screenshot 2026-07-07 181532" src="https://github.com/user-attachments/assets/94ad635e-c9e7-4e49-a750-c5f684559c9c" />
+
   <br>
   [Spotify_DA](https://public.tableau.com/views/SpotifyFeatures_17803963772710/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Power BI] <br>
