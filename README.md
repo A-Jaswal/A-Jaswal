@@ -12,6 +12,7 @@ I’m building a portfolio to showcase the data analysis projects I created thro
   I have understood the features, functions and usage of Tableau & Power BI. I learnt how to use them for creating visualisations & dashboards for data analysis.
   <br>
 - SQL / MySQL Workbench
+- Azure
 - Python / Google Colab
 
 
