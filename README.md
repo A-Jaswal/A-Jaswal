@@ -30,6 +30,8 @@ I’m building a portfolio to showcase the data analysis projects I created thro
   [Total Sales by category](https://github.com/A-Jaswal/A-Jaswal/blob/main/Total%20sales%20by%20category.png)
   <br>
   <br>
+  <img width="1918" height="964" alt="image" src="https://github.com/user-attachments/assets/40aea92b-c58b-40ef-8bab-b954043f86c5" />
+  <br>
   ---
 - **Tableau**
   <br>
