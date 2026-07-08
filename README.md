@@ -27,10 +27,12 @@ I’m building a portfolio to showcase the data analysis projects I created thro
   <br>
   <img width="2460" height="798" alt="image" src="https://github.com/user-attachments/assets/9b5eeb39-b4a1-4890-b0d1-1e7d3de92b41" />
   <br>
+  <br>
   [Total Sales by category](https://github.com/A-Jaswal/A-Jaswal/blob/main/Total%20sales%20by%20category.png)
   <br>
   <br>
   <img width="1918" height="964" alt="image" src="https://github.com/user-attachments/assets/40aea92b-c58b-40ef-8bab-b954043f86c5" />
+  <br>
   <br>
   ---
 - **Tableau**
