@@ -3,8 +3,6 @@ I’m building a portfolio to showcase the data analysis projects I created thro
 <br>
 <br>
 
-==============================
-
 ## <img width="40" height="40" alt="AdobeExpressPhotos_85669671b9ea44d988aa2c23eadcb767_CopyEdited" src="https://github.com/user-attachments/assets/5d89d4b8-22fc-4363-a66d-cc3fa48de4bc" /> What I have learnt 
 
 
