@@ -23,7 +23,7 @@ I’m building a portfolio to showcase the data analysis projects I created thro
 
 - [Excel]
   <br>
-  [Total Sales by gender](https://github.com/A-Jaswal/A-Jaswal/blob/main/Total%20Sales%20by%20gender.png)
+  [Total Sales by gender](https://github.com/A-Jaswal/Data_Analysis_portfolio/blob/main/Total%20Sales%20by%20gender.png)
   <br>
   [Total Sales by category](https://github.com/A-Jaswal/A-Jaswal/blob/main/Total%20sales%20by%20category.png)
 - [Tableau]
