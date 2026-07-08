@@ -44,7 +44,8 @@ I’m building a portfolio to showcase the data analysis projects I have created
   [Global Health Insights](https://public.tableau.com/views/GlobalHealthInsights_17806610205890/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   <br>
   <br>
-  <img width="600" height="210" alt="Screenshot 2026-07-07 181532" src="https://github.com/user-attachments/assets/94ad635e-c9e7-4e49-a750-c5f684559c9c" />
+<img width="3595" height="1606" alt="Screenshot 2026-07-08 154424" src="https://github.com/user-attachments/assets/86e5aa13-abb5-489b-a8b2-9d5eda8c9577" />
+
   <br>
   <br>
   [Spotify_DA](https://public.tableau.com/views/SpotifyFeatures_17803963772710/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
