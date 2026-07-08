@@ -1,8 +1,8 @@
 # <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/91229d49-8ee1-4aec-9d61-6f8860777069"> **Hi, I’m Anu** <hr style="border: 2px solid #000;" /> 
 I’m building a portfolio to showcase the data analysis projects I created throughout my bootcamp course.
+<br>
+<br>
 
-<br>
-<br>
 ## <img width="40" height="40" alt="AdobeExpressPhotos_85669671b9ea44d988aa2c23eadcb767_CopyEdited" src="https://github.com/user-attachments/assets/5d89d4b8-22fc-4363-a66d-cc3fa48de4bc" /> What I have learnt:
 
 - **Excel and data basics** <br>
@@ -14,9 +14,9 @@ I’m building a portfolio to showcase the data analysis projects I created thro
 - **SQL / MySQL Workbench**
 - **Azure**
 - **Python / Google Colab**
+<br>
+<br>
 
-<br>
-<br>
 ## <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1d30757c-7eb9-42e0-be31-e4af659eaeee" /> Projects I have completed:
 
 
