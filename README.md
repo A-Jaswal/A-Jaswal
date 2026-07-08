@@ -50,7 +50,8 @@ I’m building a portfolio to showcase the data analysis projects I have created
   [Spotify_DA](https://public.tableau.com/views/SpotifyFeatures_17803963772710/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   <br>
   <br>
-  <img width="600" height="210" alt="Screenshot 2026-07-07 182052" src="https://github.com/user-attachments/assets/550daf2b-692a-46e0-b936-4bdf82c2c510" />
+  <img width="3577" height="1600" alt="image" src="https://github.com/user-attachments/assets/0ad433e1-85d9-4b7e-9210-56aac9095f9f" />
+
   <br>
   <br>
   ---
