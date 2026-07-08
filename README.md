@@ -42,7 +42,8 @@ I’m building my portfolio to show the projects I created during my DA course.
   <br>
   <img width="275" height="100" alt="image" src="https://github.com/user-attachments/assets/41e23db3-58cd-4d55-a693-00adc4c8ea02" />
   <br>
-  <img width="275" height="100" alt="image" src="https://github.com/user-attachments/assets/2baeb85b-e7ff-48a6-be12-2a74aa894cda" />
+  <br>
+  <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/2baeb85b-e7ff-48a6-be12-2a74aa894cda" />
   <br>
 - [Python]
   <br>
