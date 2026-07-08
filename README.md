@@ -40,7 +40,7 @@ I’m building my portfolio to show the projects I created during my DA course.
   <br>
   [SQL_World_Data_Analysis](https://github.com/A-Jaswal/A-Jaswal/blob/main/SQL%20World%20Analysis.txt)
   <br>
-  <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/41e23db3-58cd-4d55-a693-00adc4c8ea02" />
+  <img width="275" height="100" alt="image" src="https://github.com/user-attachments/assets/41e23db3-58cd-4d55-a693-00adc4c8ea02" />
   <br>
 - [Python]
   <br>
