@@ -1,4 +1,6 @@
-# <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/91229d49-8ee1-4aec-9d61-6f8860777069"> Hi, I’m Anu. This portfolio highlights the data analysis projects I built during my bootcamp, where I worked with Excel, SQL, Python, Tableau, Power BI, and Azure to analyse data, build dashboards, and present insights.
+# <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/91229d49-8ee1-4aec-9d61-6f8860777069"> Hi, I’m Anu. 
+<br>
+This portfolio highlights the data analysis projects I built during my bootcamp, where I worked with Excel, SQL, Python, Tableau, Power BI, and Azure to analyse data, build dashboards, and present insights.
 <br>
 <br>
 
